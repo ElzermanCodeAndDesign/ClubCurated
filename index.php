@@ -6,7 +6,7 @@
 </head>
 
 <body>
-Here goes the site...
+Club Curated via Heroku.. using git...testing log on github....
 </body>
 
 </html>
